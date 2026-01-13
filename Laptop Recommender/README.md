@@ -154,4 +154,5 @@ Key features:
    03_recommender_logic.R
    04_shiny_app.R
 
-
+## Data Source
+https://www.kaggle.com/datasets/asadullahcreative/laptop-prices-in-pakistan-dataset
